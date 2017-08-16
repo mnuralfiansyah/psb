@@ -1,0 +1,13 @@
+body
+{
+	background-image : url("http://localhost:8000/img/banner.jpg");
+	background-repeat : no-repeat;
+	background-size : cover;
+	background-position : center;
+	height : 675px;
+	width :100%;
+}
+.loginsiswa
+{
+	background : rgba(245,255,250,0.7);
+}
